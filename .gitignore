@@ -1,0 +1,24 @@
+*/__pycache__/*
+*/__pycache__/
+.ipynb_checkpoints
+__pycache__
+
+# data
+hunet*/
+jtbc*/
+sber*/
+tmp*/
+examples/
+
+
+# weight
+arcface_model*/
+weights/
+coordinate_reg/
+insightface_func/models/
+
+# etc
+apex/
+Adaptive*/
+
+
