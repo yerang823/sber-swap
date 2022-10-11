@@ -6,3 +6,7 @@ __pycache__
 weights/
 arcface_model/
 insightface_func/models/
+coordinate_reg/
+apex/
+AdaptiveWingLoss/AWL_detector/
+*.pth
